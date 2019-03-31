@@ -1,6 +1,96 @@
 {
     "blades": [
         {
+            "acquisition": "Story Blade",
+            "blade": "Pyra",
+            "element": "Fire",
+            "role": "Attacker",
+            "stat": "Strength 10%",
+            "uid": "bl_pyra",
+            "weapon": "Aegis Sword"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Mythra",
+            "element": "Light",
+            "role": "Attacker",
+            "stat": "Ether 10%",
+            "uid": "bl_mythra",
+            "weapon": "Aegis Sword"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Roc",
+            "element": "Wind",
+            "role": "Attacker",
+            "stat": "Dexterity 15%",
+            "uid": "bl_roc",
+            "weapon": "Dual Scythes"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Dromarch",
+            "element": "Water",
+            "role": "Healer",
+            "stat": "Ether 10%",
+            "uid": "bl_dromarch",
+            "weapon": "Twin Rings"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Nia",
+            "element": "Water",
+            "role": "Healer",
+            "stat": "Max HP 15%",
+            "uid": "bl_nia",
+            "weapon": "Catalyst Scimitar"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Poppi α",
+            "element": "Variable",
+            "role": "Variable",
+            "stat": "Variable",
+            "uid": "bl_poppiα",
+            "weapon": "Drill Shield"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Poppi QT",
+            "element": "Variable",
+            "role": "Variable",
+            "stat": "Variable",
+            "uid": "bl_poppiqt",
+            "weapon": "Mech Arms"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Poppi QTπ",
+            "element": "Variable",
+            "role": "Variable",
+            "stat": "Variable",
+            "uid": "bl_poppiqtπ",
+            "weapon": "Variable Saber"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Brighid",
+            "element": "Fire",
+            "role": "Tank",
+            "stat": "Agility 15%",
+            "uid": "bl_brighid",
+            "weapon": "Whipswords"
+        },
+        {
+            "acquisition": "Story Blade",
+            "blade": "Pandoria",
+            "element": "Electric",
+            "role": "Attacker",
+            "stat": "Strength 10%",
+            "uid": "bl_pandoria",
+            "weapon": "Big Bang Edge"
+        },
+        {
             "acquisition": "Random",
             "blade": "Finch",
             "element": "Wind",
